@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+*.suo
+.suo
+.vs/CLaunch/v17/.suo
+/CLaunch/v17/.suo
+CLaunch/v17/.suo
+/v17/.suo
+v17/.suo
+/.suo
