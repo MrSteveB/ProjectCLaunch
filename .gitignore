@@ -1,0 +1,8 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/CLaunch/.vs/CLaunch/v17/.suo
+/CLaunch/.vs/CLaunch/v17/.futdcache.v2
+/CLaunch/.vs/ProjectEvaluation/claunch.metadata.v6.1
+/CLaunch/.vs/ProjectEvaluation/claunch.projects.v6.1
